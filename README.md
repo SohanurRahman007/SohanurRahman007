@@ -1,6 +1,7 @@
 <!-- Banner Image -->
- <img src="https://i.ibb.co/PzZfZTpv/8469936.jpg" alt="Banner" style="width:100%; height:auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-
+<p align="center">
+  <img src="https://i.ibb.co/PzZfZTpv/8469936.jpg" alt="Banner" style="width:100%; height:auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</p>
 
 # 👋 Hi there! I'm Sohanur Rahman
 
@@ -37,14 +38,12 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 🔥 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohanurRahman007&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanurRahman007&layout=compact&theme=tokyonight)
-
 
 ---
 
@@ -57,20 +56,20 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ## 📌 Pinned Projects
 
 ### [Idea Canvas](https://github.com/SohanurRahman007/project-one)  
-A modern, responsive blog website built using React, Firebase, and MongoDB. This site enables users to read blogs, post their own, interact through wishlists and comments, and manage their content securely. 
-[Live Demo]([https://idea-canvas-88aaf.web.app/])
+A modern, responsive blog website built using React, Firebase, and MongoDB. This site enables users to read blogs, post their own, interact through wishlists and comments, and manage their content securely.  
+🔗 [Live Demo](https://idea-canvas-88aaf.web.app/)
 
 ---
 
-### [grow-together](https://github.com/SohanurRahman007/project-two)  
-This is a full-featured gardening tips web app where users can share and explore useful tips about plant care, indoor/outdoor gardening, composting,  
-[Live Demo]([https://grow-together-auth.web.app/])
+### [Grow Together](https://github.com/SohanurRahman007/project-two)  
+This is a full-featured gardening tips web app where users can share and explore useful tips about plant care, indoor/outdoor gardening, composting.  
+🔗 [Live Demo](https://grow-together-auth.web.app/)
 
 ---
 
-### [local-vibe](https://github.com/SohanurRahman007/project-three)  
-The goal of Local Vibe is to help users explore and engage with their local community through curated recommendations, events, and user interactions. It uses Firebase for authentication and stores data securely.
-[Live Demo]( [https://local-vibe-authentication.web.app/])
+### [Local Vibe](https://github.com/SohanurRahman007/project-three)  
+The goal of Local Vibe is to help users explore and engage with their local community through curated recommendations, events, and user interactions. It uses Firebase for authentication and stores data securely.  
+🔗 [Live Demo](https://local-vibe-authentication.web.app/)
 
 ---
 
@@ -79,5 +78,4 @@ The goal of Local Vibe is to help users explore and engage with their local comm
 ---
 
 ⭐ If you like my work, don't forget to star my repos!  
-Let's connect and build something amazing!
-
+Let’s connect and build something amazing!
