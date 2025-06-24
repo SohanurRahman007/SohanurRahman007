@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://ibb.co/m5CkS837)
+![Banner](https://i.ibb.co/m5CkS837/your-image-name.jpg)
 
 # 👋 Hi there! I'm Sohanur Rahman
 
