@@ -43,7 +43,8 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohanurRahman007&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanurRahman007&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=SohanurRahman007&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohanurRahman007&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanurRahman007&layout=compact&theme=tokyonight)
 
 ---
 
