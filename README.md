@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://scontent.xx.fbcdn.net/v/t1.6435-9/749937337714836.jpg?stp=dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEXAMPLE&_nc_ohc=example123&_nc_ht=scontent.xx&oh=00_exampleimagehash&oe=66000000)
+![Banner](https://ibb.co/m5CkS837)
 
 # 👋 Hi there! I'm Sohanur Rahman
 
