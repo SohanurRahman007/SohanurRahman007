@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/m5CkS837/your-image-name.jpg)
+<img src="https://i.ibb.co/m5CkS837/your-image-name.jpg" alt="Banner" style="width:100%;"/>
+
 
 # 👋 Hi there! I'm Sohanur Rahman
 
