@@ -56,21 +56,21 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 
 ## 📌 Pinned Projects
 
-### [Project One Name](https://github.com/SohanurRahman007/project-one)  
-A brief overview of the project. Built with React, Node.js, and MongoDB. Features include user authentication and dynamic pricing.  
-[Live Demo](https://your-live-demo-link.com)
+### [Idea Canvas](https://github.com/SohanurRahman007/project-one)  
+A modern, responsive blog website built using React, Firebase, and MongoDB. This site enables users to read blogs, post their own, interact through wishlists and comments, and manage their content securely. 
+[Live Demo]([https://idea-canvas-88aaf.web.app/])
 
 ---
 
-### [Project Two Name](https://github.com/SohanurRahman007/project-two)  
-An e-commerce website using Next.js and Firebase for authentication. Implements a shopping cart and admin dashboard.  
-[Live Demo](https://your-live-demo-link.com)
+### [grow-together](https://github.com/SohanurRahman007/project-two)  
+This is a full-featured gardening tips web app where users can share and explore useful tips about plant care, indoor/outdoor gardening, composting,  
+[Live Demo]([https://grow-together-auth.web.app/])
 
 ---
 
-### [Project Three Name](https://github.com/SohanurRahman007/project-three)  
-A real-time chat application using Socket.io and Express. Supports multiple chat rooms and private messaging.  
-[Live Demo](https://your-live-demo-link.com)
+### [local-vibe](https://github.com/SohanurRahman007/project-three)  
+The goal of Local Vibe is to help users explore and engage with their local community through curated recommendations, events, and user interactions. It uses Firebase for authentication and stores data securely.
+[Live Demo]( [https://local-vibe-authentication.web.app/])
 
 ---
 
