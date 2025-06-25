@@ -42,8 +42,7 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ## 📫 Get In Touch
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohanuractive007@gmail.com)  
-📧 Email: [sohanuractive007@gmail.com](mailto:sohanuractive007@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohanuractive007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohanur-rahman-4b4285333/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080957303185)
 
