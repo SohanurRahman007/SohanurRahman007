@@ -83,7 +83,7 @@ A full-featured fitness tracking app with role-based dashboards for Admins, Trai
 **📦 Dependencies:**  
 React, React Router, Axios, Firebase, Stripe, Mongoose, Express, Tailwind CSS
 
-**🔴 [Live Demo](https://fitsphere-e30b9.web.app/)**
+**🔴 [Client Site repo](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-SohanurRahman007)**
 
 ---
 
