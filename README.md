@@ -64,113 +64,76 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 
 ---
 
+### 🔗 [FitSphere – Fitness Tracker](https://fitsphere-e30b9.web.app/)
 
-📌 Pinned Projects
-🔗 Fitneshpre
-🔴 Live Demo: https://fitsphere-e30b9.web.app/
+**Project Overview:**  
+A full-featured fitness tracking app with role-based dashboards for Admins, Trainers, and Members. Offers secure login, trainer slot booking, and class management.
 
-📌 Project Overview:
-A full-featured fitness tracker web app supporting multiple user roles — Admins, Trainers, and Members. Users can track workouts, book trainers, manage plans, and make secure payments via Stripe.
+**🛠 Technologies Used:**  
+- React, Tailwind CSS, Node.js, Express.js  
+- MongoDB, Firebase Auth, JWT, Stripe API
 
-🛠️ Technologies Used:
+**⭐ Core Features:**  
+- 🔐 JWT-based Role Authentication: Admin / Trainer / Member  
+- 📅 Trainer slot booking system  
+- 💳 Stripe payment gateway integration  
+- 🎯 Class & trainer management dashboard  
+- 📱 Fully responsive UI
 
-⚛️ React
+**📦 Dependencies:**  
+React, React Router, Axios, Firebase, Stripe, Mongoose, Express, Tailwind CSS
 
-🎨 Tailwind CSS
+**🔴 [Live Demo](https://fitsphere-e30b9.web.app/)**
 
-🔐 Firebase Auth, JWT
+---
 
-🌐 Node.js, Express.js
+### 🔗 [Idea Canvas – Blogging Platform](https://idea-canvas-88aaf.web.app/)
 
-🗃️ MongoDB
+**Project Overview:**  
+A modern, responsive blog platform for creating, editing, and wishlisting blog posts with Firebase authentication and role-based access.
 
-💳 Stripe API
+**🛠 Technologies Used:**  
+- React, Firebase (Auth & Firestore), MongoDB  
+- Express.js, Tailwind CSS
 
-⭐ Core Features:
+**⭐ Core Features:**  
+- 🔐 Firebase authentication with Admin/User roles  
+- 📝 Full CRUD for blog posts  
+- 💬 Commenting and wishlisting  
+- 🌗 Dark/light theme switch  
+- ⚙️ Admin dashboard for managing all content
 
-🔐 JWT-authenticated role-based dashboards
+**📦 Dependencies:**  
+React, Firebase, Axios, Express, Mongoose, Tailwind CSS
 
-📅 Trainer slot booking system
+**🔴 [Live Demo](https://idea-canvas-88aaf.web.app/)**
 
-💳 Stripe payment integration
+---
 
-🧑‍🏫 Trainer application & approval workflow
+### 🔗 [Grow Together – Gardening Tips](https://grow-together-auth.web.app/)
 
-📱 Fully responsive design
+**Project Overview:**  
+A community-driven gardening platform for sharing plant care tips, composting advice, and green hacks.
 
-📦 Dependencies:
+**🛠 Technologies Used:**  
+- React, Firebase Auth & Firestore  
+- React Router DOM, Tailwind CSS
 
-react, react-router-dom, axios, firebase,
+**⭐ Core Features:**  
+- 👤 Firebase-based login/register  
+- 🌿 Post and browse plant care tips  
+- 🔄 Real-time data with Firestore  
+- 💬 Like and comment functionality  
+- 📱 Mobile responsive design
 
-express, mongoose, jsonwebtoken, stripe, tailwindcss
+**📦 Dependencies:**  
+React, Firebase, React Router DOM, Tailwind CSS
 
-🔗 Idea Canvas
-🔴 Live Demo: https://idea-canvas-88aaf.web.app/
+**🔴 [Live Demo](https://grow-together-auth.web.app/)**
 
-📌 Project Overview:
-A modern blog platform where users can post, edit, comment, and wishlist blogs. Features include Firebase authentication, role access, and a responsive UI with theme switching.
 
-🛠️ Technologies Used:
 
-⚛️ React
-
-🔐 Firebase Auth & Firestore
-
-🎨 Tailwind CSS
-
-🌐 Express.js, MongoDB
-
-⭐ Core Features:
-
-🔐 Firebase login and role-based access
-
-✍️ Full blog CRUD operations
-
-❤️ Wishlist and 💬 commenting system
-
-🌗 Dark/light theme toggle
-
-🛠️ Admin content management
-
-📦 Dependencies:
-
-react, firebase, axios, tailwindcss,
-
-express, mongoose
-
-🔗 Grow Together
-🔴 Live Demo: https://grow-together-auth.web.app/
-
-📌 Project Overview:
-A vibrant community platform for gardeners to share eco-friendly tips, plant care guides, and composting advice. Encourages sustainable living and knowledge sharing.
-
-🛠️ Technologies Used:
-
-⚛️ React
-
-🔐 Firebase Auth
-
-🔄 Firestore (Real-time DB)
-
-🎨 Tailwind CSS
-
-🚦 React Router
-
-⭐ Core Features:
-
-🔐 Secure Firebase-based login/signup
-
-🪴 Post, browse, and explore gardening tips
-
-💬 Real-time commenting system
-
-👍 Like/interact with posts
-
-📱 Mobile-first responsive layout
-
-📦 Dependencies:
-
-react, react-router-dom, firebase, tailwindcss
+---
 
 
 > 💬 **Fun fact:** I love solving complex problems and learning new tech daily!
