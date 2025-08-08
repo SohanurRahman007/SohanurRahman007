@@ -64,8 +64,8 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 
 ---
 
-## 📌 Pinned Projects
 
+## 📌 Pinned Projects
 
 🔗 Fitneshpre
 Project Overview:
@@ -74,45 +74,60 @@ Fitneshpre is a full-featured fitness tracker web app supporting Admins, Trainer
 🔴 Live Demo: https://fitsphere-e30b9.web.app/
 
 🛠️ Technologies Used:
-React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase Auth, Stripe API
-
-📸 Screenshot:
+-React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase Auth, Stripe API
 
 ⭐ Core Features:
-
-JWT-authenticated role-based access: Admin, Trainer, Member
-
-Trainer slot booking system
-
-Stripe payment gateway integration
-
-Class management & trainer application flow
-
-Responsive, dark-themed UI
+-JWT-authenticated role-based access: Admin, Trainer, Member
+-Trainer slot booking system
+-Stripe payment gateway integration
+-Class management & trainer application flow
+-Responsive UI
 
 📦 Dependencies:
-React, React Router, Axios, Firebase, Express, Mongoose, Stripe, JWT, Tailwind CSS
+-React, React Router, Axios, Firebase, Express, Mongoose, Stripe, JWT, Tailwind CSS
 
 
+🔗 Idea Canvas
+Project Overview:
+Idea Canvas is a blog platform where users can register, create, edit, and delete blogs. It supports wishlisting, commenting, and secure access using Firebase Authentication. The site is responsive and optimized for modern browsing.
 
+🔴 Live Demo: https://idea-canvas-88aaf.web.app/
 
-### [Idea Canvas](https://github.com/SohanurRahman007/project-one)  
-A modern, responsive blog website built using React, Firebase, and MongoDB. This site enables users to read blogs, post their own, interact through wishlists and comments, and manage their content securely.  
-🔗 [Live Demo](https://idea-canvas-88aaf.web.app/)
+🛠️ Technologies Used:
+-React, Firebase (Auth & Firestore), MongoDB, Express.js, Tailwind CSS
+
+⭐ Core Features:
+-Firebase authentication and role access
+-CRUD for blog posts
+-Commenting and wishlisting
+-Dark/light theme switch
+-Admin panel for managing content
+
+📦 Dependencies:
+React, Firebase, Axios, Tailwind, Express, Mongoose
 
 ---
 
-### [Grow Together](https://github.com/SohanurRahman007/project-two)  
-This is a full-featured gardening tips web app where users can share and explore useful tips about plant care, indoor/outdoor gardening, composting.  
-🔗 [Live Demo](https://grow-together-auth.web.app/)
+🔗 Grow Together
+Project Overview:
+Grow Together is a platform for gardeners and eco-enthusiasts to share plant care tips, indoor/outdoor gardening hacks, composting methods, and more. The platform encourages sustainability and learning through community contributions.
 
+🔴 Live Demo: https://grow-together-auth.web.app/
+
+🛠️ Technologies Used:
+-React, Firebase Auth, Firestore, Tailwind CSS, React Router
+
+⭐ Core Features:
+-Firebase-based user registration/login
+-Post and explore gardening tips
+-Real-time updates with Firestore
+-Comment and like system
+-Fully mobile responsive
+
+📦 Dependencies:
+-React, Firebase, Tailwind CSS, React Router DOM
 ---
 
-### [Local Vibe](https://github.com/SohanurRahman007/project-three)  
-The goal of Local Vibe is to help users explore and engage with their local community through curated recommendations, events, and user interactions. It uses Firebase for authentication and stores data securely.  
-🔗 [Live Demo](https://local-vibe-authentication.web.app/)
-
----
 
 > 💬 **Fun fact:** I love solving complex problems and learning new tech daily!
 
