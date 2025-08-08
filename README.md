@@ -106,7 +106,7 @@ A modern, responsive blog platform for creating, editing, and wishlisting blog p
 **📦 Dependencies:**  
 React, Firebase, Axios, Express, Mongoose, Tailwind CSS
 
-**🔴 [Live Demo](https://idea-canvas-88aaf.web.app/)**
+**🔴 [Client Site repo](https://github.com/SohanurRahman007/assignment-11-idea-canvas-client-polishing)**
 
 ---
 
@@ -129,7 +129,7 @@ A community-driven gardening platform for sharing plant care tips, composting ad
 **📦 Dependencies:**  
 React, Firebase, React Router DOM, Tailwind CSS
 
-**🔴 [Live Demo](https://grow-together-auth.web.app/)**
+**🔴 [Client Site repo](https://github.com/SohanurRahman007/grow-together-client-new)**
 
 
 
