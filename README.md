@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/HTFf6Stj/113.jpg" alt="Banner" style="width:100%; height:auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://i.ibb.co.com/dwkWgnx2/Black-and-Brown-Simple-Modern-Professional-Business-Linked-In-Banner.png" alt="Banner" style="width:100%; height:auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
 # 👋 Hi there! I'm Sohanur Rahman
