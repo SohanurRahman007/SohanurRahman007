@@ -16,9 +16,9 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ---
 
 ## 🔭 What I'm Working On
-
-- 🚀 **Next.js** → Exploring dynamic routes, API routes & SSR  
-- 🌱 **TypeScript** → Improving type safety in React apps  
+- 🌐  I’m developing FitSphere, a role-based fitness app with trainer dashboards, slot management, and Stripe payment integration.
+- ⚙️ Exploring advanced features in **Next.js** and server-side rendering. 
+- 💡 Working on UI/UX improvement for my personal projects.
 - 🛠 **Parcel Delivery Web App** → Features include auth, pricing logic, and admin dashboard  
 - 💡 **MongoDB + Firebase + React** → Practicing CRUD, authentication, and private routes
 
