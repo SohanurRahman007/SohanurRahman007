@@ -65,79 +65,113 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ---
 
 
-🔗 Fitneshpre – Client Repository
+📌 Pinned Projects
+🔗 Fitneshpre
 🔴 Live Demo: https://fitsphere-e30b9.web.app/
 
-📝 Project Overview:
-Fitneshpre is a full-featured fitness tracker web app with role-based dashboards for Admins, Trainers, and Members. Users can book personal trainers, manage classes, handle subscriptions, and securely pay using Stripe.
+📌 Project Overview:
+A full-featured fitness tracker web app supporting multiple user roles — Admins, Trainers, and Members. Users can track workouts, book trainers, manage plans, and make secure payments via Stripe.
 
 🛠️ Technologies Used:
-React, Firebase Auth, Tailwind CSS, React Router, Axios, JWT, Stripe
+
+⚛️ React
+
+🎨 Tailwind CSS
+
+🔐 Firebase Auth, JWT
+
+🌐 Node.js, Express.js
+
+🗃️ MongoDB
+
+💳 Stripe API
 
 ⭐ Core Features:
 
-Role-based dashboard (Admin, Trainer, Member)
+🔐 JWT-authenticated role-based dashboards
 
-Trainer application & approval workflow
+📅 Trainer slot booking system
 
-Class management and booking system
+💳 Stripe payment integration
 
-Stripe payment integration
+🧑‍🏫 Trainer application & approval workflow
 
-Responsive design with dark/light mode toggle
+📱 Fully responsive design
 
 📦 Dependencies:
-React, React Router DOM, Firebase, JWT-decode, Stripe.js, Axios, Tailwind CSS
 
-🔗 Idea Canvas – Client Repository
+react, react-router-dom, axios, firebase,
+
+express, mongoose, jsonwebtoken, stripe, tailwindcss
+
+🔗 Idea Canvas
 🔴 Live Demo: https://idea-canvas-88aaf.web.app/
 
-📝 Project Overview:
-Idea Canvas is a blog-based web platform where users can create, edit, wishlist, and comment on blog posts. It uses Firebase for authentication and offers a modern, intuitive UI experience.
+📌 Project Overview:
+A modern blog platform where users can post, edit, comment, and wishlist blogs. Features include Firebase authentication, role access, and a responsive UI with theme switching.
 
 🛠️ Technologies Used:
-React, Firebase (Auth & Firestore), Tailwind CSS, React Router, Axios
+
+⚛️ React
+
+🔐 Firebase Auth & Firestore
+
+🎨 Tailwind CSS
+
+🌐 Express.js, MongoDB
 
 ⭐ Core Features:
 
-Secure Firebase Authentication
+🔐 Firebase login and role-based access
 
-Create, read, update, delete (CRUD) blog posts
+✍️ Full blog CRUD operations
 
-Add/remove blogs from wishlist
+❤️ Wishlist and 💬 commenting system
 
-Comments and user interactions
+🌗 Dark/light theme toggle
 
-Admin panel with role-based access
-
-Responsive UI with dark/light mode
+🛠️ Admin content management
 
 📦 Dependencies:
-React, React Router DOM, Firebase, Axios, Tailwind CSS
 
-🔗 Grow Together – Client Repository
+react, firebase, axios, tailwindcss,
+
+express, mongoose
+
+🔗 Grow Together
 🔴 Live Demo: https://grow-together-auth.web.app/
 
-📝 Project Overview:
-Grow Together is a knowledge-sharing platform for gardeners and nature enthusiasts. Users can post, explore, and interact with plant care tips and eco-friendly advice.
+📌 Project Overview:
+A vibrant community platform for gardeners to share eco-friendly tips, plant care guides, and composting advice. Encourages sustainable living and knowledge sharing.
 
 🛠️ Technologies Used:
-React, Firebase Auth, Firestore, Tailwind CSS, React Router
+
+⚛️ React
+
+🔐 Firebase Auth
+
+🔄 Firestore (Real-time DB)
+
+🎨 Tailwind CSS
+
+🚦 React Router
 
 ⭐ Core Features:
 
-User sign-up/sign-in using Firebase Auth
+🔐 Secure Firebase-based login/signup
 
-Tip sharing with real-time Firestore updates
+🪴 Post, browse, and explore gardening tips
 
-Post interactions (like, comment)
+💬 Real-time commenting system
 
-Category-based browsing
+👍 Like/interact with posts
 
-Fully responsive and mobile-friendly layout
+📱 Mobile-first responsive layout
 
 📦 Dependencies:
-React, React Router DOM, Firebase, Tailwind CSS
+
+react, react-router-dom, firebase, tailwindcss
+
 
 > 💬 **Fun fact:** I love solving complex problems and learning new tech daily!
 
