@@ -67,9 +67,31 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ## 📌 Pinned Projects
 
 
-### [Fitneshpre](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-SohanurRahman007)  
-Fitneshpre is a full-stack fitness tracking web application built using React, Node.js, Express, and MongoDB. It enables users to track workouts, book personal trainers, manage fitness plans, and securely handle role-based access for Admins, Trainers, and Members.
-🔗 [Live Demo]([https://idea-canvas-88aaf.web.app/](https://fitsphere-e30b9.web.app/)
+🔗 Fitneshpre
+Project Overview:
+Fitneshpre is a full-featured fitness tracker web app supporting Admins, Trainers, and Members. Users can track their workouts, book personal trainers, manage fitness plans, and make secure payments using Stripe. Each user role has a dedicated dashboard for personalized functionality.
+
+🔴 Live Demo: https://fitsphere-e30b9.web.app/
+
+🛠️ Technologies Used:
+React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase Auth, Stripe API
+
+📸 Screenshot:
+
+⭐ Core Features:
+
+JWT-authenticated role-based access: Admin, Trainer, Member
+
+Trainer slot booking system
+
+Stripe payment gateway integration
+
+Class management & trainer application flow
+
+Responsive, dark-themed UI
+
+📦 Dependencies:
+React, React Router, Axios, Firebase, Express, Mongoose, Stripe, JWT, Tailwind CSS
 
 
 
