@@ -66,6 +66,14 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 
 ## 📌 Pinned Projects
 
+
+### [Fitneshpre](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-SohanurRahman007)  
+Fitneshpre is a full-stack fitness tracking web application built using React, Node.js, Express, and MongoDB. It enables users to track workouts, book personal trainers, manage fitness plans, and securely handle role-based access for Admins, Trainers, and Members.
+🔗 [Live Demo]([https://idea-canvas-88aaf.web.app/](https://fitsphere-e30b9.web.app/)
+
+
+
+
 ### [Idea Canvas](https://github.com/SohanurRahman007/project-one)  
 A modern, responsive blog website built using React, Firebase, and MongoDB. This site enables users to read blogs, post their own, interact through wishlists and comments, and manage their content securely.  
 🔗 [Live Demo](https://idea-canvas-88aaf.web.app/)
