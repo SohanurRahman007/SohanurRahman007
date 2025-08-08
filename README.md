@@ -72,13 +72,16 @@ A full-featured fitness tracking app with role-based dashboards for Admins, Trai
 **🛠 Technologies Used:**  
 - React, Tailwind CSS, Node.js, Express.js  
 - MongoDB, Firebase Auth, JWT, Stripe API
-**⭐ Core Features:**  
+- 
+**⭐ Core Features:**
+  
 - 🔐 JWT-based Role Authentication: Admin / Trainer / Member  
 - 📅 Trainer slot booking system  
 - 💳 Stripe payment gateway integration  
 - 🎯 Class & trainer management dashboard  
 - 📱 Fully responsive UI
-**📦 Dependencies:**  
+**📦 Dependencies:**
+  
 React, React Router, Axios, Firebase, Stripe, Mongoose, Express, Tailwind CSS
 
 **🔴 [Client Site repo](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-SohanurRahman007)**
@@ -93,12 +96,14 @@ A modern, responsive blog platform for creating, editing, and wishlisting blog p
 **🛠 Technologies Used:**  
 - React, Firebase (Auth & Firestore), MongoDB  
 - Express.js, Tailwind CSS
+- 
 **⭐ Core Features:**  
 - 🔐 Firebase authentication with Admin/User roles  
 - 📝 Full CRUD for blog posts  
 - 💬 Commenting and wishlisting  
 - 🌗 Dark/light theme switch  
 - ⚙️ Admin dashboard for managing all content
+- 
 **📦 Dependencies:**  
 React, Firebase, Axios, Express, Mongoose, Tailwind CSS
 
@@ -114,13 +119,15 @@ A community-driven gardening platform for sharing plant care tips, composting ad
 **🛠 Technologies Used:**  
 - React, Firebase Auth & Firestore  
 - React Router DOM, Tailwind CSS
+- 
 **⭐ Core Features:**  
 - 👤 Firebase-based login/register  
 - 🌿 Post and browse plant care tips  
 - 🔄 Real-time data with Firestore  
 - 💬 Like and comment functionality  
 - 📱 Mobile responsive design
-**📦 Dependencies:**  
+- 
+**📦 Dependencies:**
 React, Firebase, React Router DOM, Tailwind CSS
 
 **🔴 [Client Site repo](https://github.com/SohanurRahman007/grow-together-client-new)**
