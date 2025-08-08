@@ -65,69 +65,79 @@ I'm a self-taught web developer with a focus on building scalable and user-frien
 ---
 
 
-## 📌 Pinned Projects
-
-🔗 Fitneshpre
-Project Overview:
-Fitneshpre is a full-featured fitness tracker web app supporting Admins, Trainers, and Members. Users can track their workouts, book personal trainers, manage fitness plans, and make secure payments using Stripe. Each user role has a dedicated dashboard for personalized functionality.
-
+🔗 Fitneshpre – Client Repository
 🔴 Live Demo: https://fitsphere-e30b9.web.app/
 
+📝 Project Overview:
+Fitneshpre is a full-featured fitness tracker web app with role-based dashboards for Admins, Trainers, and Members. Users can book personal trainers, manage classes, handle subscriptions, and securely pay using Stripe.
+
 🛠️ Technologies Used:
--React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Firebase Auth, Stripe API
+React, Firebase Auth, Tailwind CSS, React Router, Axios, JWT, Stripe
 
 ⭐ Core Features:
--JWT-authenticated role-based access: Admin, Trainer, Member
--Trainer slot booking system
--Stripe payment gateway integration
--Class management & trainer application flow
--Responsive UI
+
+Role-based dashboard (Admin, Trainer, Member)
+
+Trainer application & approval workflow
+
+Class management and booking system
+
+Stripe payment integration
+
+Responsive design with dark/light mode toggle
 
 📦 Dependencies:
--React, React Router, Axios, Firebase, Express, Mongoose, Stripe, JWT, Tailwind CSS
+React, React Router DOM, Firebase, JWT-decode, Stripe.js, Axios, Tailwind CSS
 
-
-🔗 Idea Canvas
-Project Overview:
-Idea Canvas is a blog platform where users can register, create, edit, and delete blogs. It supports wishlisting, commenting, and secure access using Firebase Authentication. The site is responsive and optimized for modern browsing.
-
+🔗 Idea Canvas – Client Repository
 🔴 Live Demo: https://idea-canvas-88aaf.web.app/
 
+📝 Project Overview:
+Idea Canvas is a blog-based web platform where users can create, edit, wishlist, and comment on blog posts. It uses Firebase for authentication and offers a modern, intuitive UI experience.
+
 🛠️ Technologies Used:
--React, Firebase (Auth & Firestore), MongoDB, Express.js, Tailwind CSS
+React, Firebase (Auth & Firestore), Tailwind CSS, React Router, Axios
 
 ⭐ Core Features:
--Firebase authentication and role access
--CRUD for blog posts
--Commenting and wishlisting
--Dark/light theme switch
--Admin panel for managing content
+
+Secure Firebase Authentication
+
+Create, read, update, delete (CRUD) blog posts
+
+Add/remove blogs from wishlist
+
+Comments and user interactions
+
+Admin panel with role-based access
+
+Responsive UI with dark/light mode
 
 📦 Dependencies:
-React, Firebase, Axios, Tailwind, Express, Mongoose
+React, React Router DOM, Firebase, Axios, Tailwind CSS
 
----
-
-🔗 Grow Together
-Project Overview:
-Grow Together is a platform for gardeners and eco-enthusiasts to share plant care tips, indoor/outdoor gardening hacks, composting methods, and more. The platform encourages sustainability and learning through community contributions.
-
+🔗 Grow Together – Client Repository
 🔴 Live Demo: https://grow-together-auth.web.app/
 
+📝 Project Overview:
+Grow Together is a knowledge-sharing platform for gardeners and nature enthusiasts. Users can post, explore, and interact with plant care tips and eco-friendly advice.
+
 🛠️ Technologies Used:
--React, Firebase Auth, Firestore, Tailwind CSS, React Router
+React, Firebase Auth, Firestore, Tailwind CSS, React Router
 
 ⭐ Core Features:
--Firebase-based user registration/login
--Post and explore gardening tips
--Real-time updates with Firestore
--Comment and like system
--Fully mobile responsive
+
+User sign-up/sign-in using Firebase Auth
+
+Tip sharing with real-time Firestore updates
+
+Post interactions (like, comment)
+
+Category-based browsing
+
+Fully responsive and mobile-friendly layout
 
 📦 Dependencies:
--React, Firebase, Tailwind CSS, React Router DOM
----
-
+React, React Router DOM, Firebase, Tailwind CSS
 
 > 💬 **Fun fact:** I love solving complex problems and learning new tech daily!
 
