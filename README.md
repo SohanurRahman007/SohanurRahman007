@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/s9WJ17YM/github-banner.png" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/bytestore/image/upload/v1762860154/github_banner_urygat.png" alt="Banner" width="100%" />
 </p>
 
 ---
