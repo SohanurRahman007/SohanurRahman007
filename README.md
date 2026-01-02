@@ -1,6 +1,7 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="https://res.cloudinary.com/bytestore/image/upload/v1762860154/github_banner_urygat.png" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/bytestore/image/upload/v1767366889/ggggggggggggggg_gyp378.png" alt="Banner" width="100%" />
+  
 </p>
 
 ---
